@@ -41,7 +41,6 @@ install_requirements = [
     "xgboost==2.1.3",
     "web3==6.20.2",
     "sapphire.py==0.2.3",
-    "stopit==1.1.2",
     "ta==0.11.0",
     "ocean-contracts==2.2.1",  # install this last
 ]
